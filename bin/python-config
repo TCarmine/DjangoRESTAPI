@@ -1,4 +1,4 @@
-#!/home/ca/Desktop/code/DjangoRESTAPI/bin/python
+#!/home/ca/Desktop/code/DjangoRESTAPI_GEN/DjangoRESTAPI/bin/python
 
 import sys
 import getopt
