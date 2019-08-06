@@ -141,3 +141,8 @@ node_modules/
 
 
 # End of https://www.gitignore.io/api/django
+bin/epylint
+bin/isort
+bin/pyreverse
+bin/pylint
+bin/symilar
